@@ -73,14 +73,14 @@ Jupyter Notebook / Kaggle
 
 ---
 
-### 2️⃣ Average Arrival Delay by Hour
-![Average Delay by Hour](images/avg_delay_by_hour.png)
+### 2️⃣ Average Arrival Delay by Week
+![Average Delay by Hour](image/avg_delay_by_week.png)
 > Reveals peak delay hours — typically late afternoon and evening flights.
 
 ---
 
 ### 3️⃣ Monthly Delay Trends
-![Monthly Delay Trend](images/monthly_delay_rate.png)
+![Monthly Delay Trend](image/avg_delay_by_month.png)
 > Shows seasonal patterns — summer months experience more delays.
 
 ---
@@ -92,7 +92,7 @@ Jupyter Notebook / Kaggle
 ---
 
 ### 5️⃣ Airline vs. Cause Heatmap
-![Airline vs Cause](images/airline_vs_cause_heatmap.png)
+![Airline vs Cause](image/Airline vs Cause Heatmap.png)
 > Identifies which airlines are most affected by specific delay causes.
 
 ---
