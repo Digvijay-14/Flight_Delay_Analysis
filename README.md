@@ -1,6 +1,6 @@
 <!-- PROJECT BANNER -->
 <p align="center">
-  <img src="images/flight_delay_banner.png" alt="Flight Delay Analysis Banner" width="800">
+  <img src="image/Flight__delay.jpeg" alt="Flight Delay Analysis Banner" width="800">
 </p>
 
 <h1 align="center">✈️ SKYTIME INSIGHTS – FLIGHT DELAY ANALYSIS</h1>
@@ -136,9 +136,4 @@ By leveraging data, airlines can **anticipate delays**, **optimize scheduling**,
 
 ---
 
-## 👨‍💻 Author
-**D. [Your Full Name]**  
-Data Analyst | Python | Visualization | SQL  
-📧 [Your Email]  
-🌐 [LinkedIn / Portfolio Link]
 
