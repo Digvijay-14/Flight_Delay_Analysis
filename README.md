@@ -68,15 +68,14 @@ Jupyter Notebook / Kaggle
 ## 📊 Exploratory Insights
 
 ### 1️⃣ Delay Rate by Airline
-![Delay Rate by Airline](images/delay_rate_by_airline.png)
+![Delay Rate by Airline](image/Delay_rate_by_airline.png)
 > Visualizes which airlines face the highest percentage of delayed flights.
 
 ---
 
 ### 2️⃣ Average Arrival Delay by Week
 ![Average Delay by Hour](image/avg_delay_by_week.png)
-> Reveals peak delay hours — typically late afternoon and evening flights.
-
+> Average Arrival Delay by Day of Week – Highlights which weekdays experience higher average delays, often peaking around Fridays and Sundays.
 ---
 
 ### 3️⃣ Monthly Delay Trends
@@ -85,14 +84,14 @@ Jupyter Notebook / Kaggle
 
 ---
 
-### 4️⃣ Delay Causes Breakdown
-![Delay Causes](images/delay_causes.png)
-> Compares major delay types — carrier, weather, NAS, and late aircraft delays.
+### 4️⃣ Departure vs Arrival Delay Correlation
+![Delay Causes](image/dep_delay_vs_arrival_delay.png)
+> Departure vs Arrival Delay – Strong positive correlation shows that flights leaving late tend to arrive late, reinforcing the compounding effect of departure delays.
 
 ---
 
 ### 5️⃣ Airline vs. Cause Heatmap
-![Airline vs Cause](image/Airline vs Cause Heatmap.png)
+![Airline vs Cause](image/Airline_vs_Cause_Heatmap.png)
 > Identifies which airlines are most affected by specific delay causes.
 
 ---
