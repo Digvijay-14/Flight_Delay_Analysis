@@ -1,12 +1,14 @@
-<!-- PROJECT BANNER -->
-<p align="center">
-  <img src="image/Flight__delay.jpeg" alt="Flight Delay Analysis Banner" width="800">
-</p>
-
 <h1 align="center">✈️ SKYTIME INSIGHTS – FLIGHT DELAY ANALYSIS</h1>
 <p align="center">
   <em>Analyzing U.S. flight delays to reveal performance trends, seasonal patterns, and major causes.</em>
 </p>
+
+<!-- PROJECT BANNER -->
+<p align="center">
+  <img src="image/flight-delays.webp" alt="Flight Delay Analysis Banner" width="800">
+</p>
+
+---
 
 ---
 
